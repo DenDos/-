@@ -8,4 +8,5 @@
 <li><a href="https://puphpet.com/" target="_blank">puphpet</a> - Конструктор для вагранта. Минимальная версия 1.8.х</li>
 <li><a href="https://twitter.github.io/typeahead.js/" target="_blank">typeahead.js</a> - Селект</li>
 <li><a href="https://github.com/btford/angular-markdown-directive" target="_blank">angular-markdown-directive</a> - Markdown</li>
+<li><a href="http://squirreljs.com/" target="_blank">Squirrel.js</a> - Запоминает поля формы при перезагрузке</li>
 </ul>
