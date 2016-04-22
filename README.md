@@ -10,5 +10,5 @@
 <li><a href="https://github.com/btford/angular-markdown-directive" target="_blank">angular-markdown-directive</a> - Markdown</li>
 <li><a href="http://squirreljs.com/" target="_blank">Squirrel.js</a> - Запоминает поля формы при перезагрузке</li>
 <li><a href="https://github.com/yamldb/yaml_db" target="_blank">Yaml db</a> - Дамб базы для рельс</li>
-
+<li><a href="https://github.com/rweng/pry-rails" target="_blank">pry-rails</a> - Форматированный вывод на консоль в рельсах</li>
 </ul>
